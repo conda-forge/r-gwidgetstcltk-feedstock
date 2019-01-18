@@ -18,9 +18,8 @@ Summary: Port of the gWidgets API to the tcltk package.
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-gwidgetstcltk-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-gwidgetstcltk-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-gwidgetstcltk-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-gwidgetstcltk-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-gwidgetstcltk-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-gwidgetstcltk-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-gwidgetstcltk-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-gwidgetstcltk-feedstock)
 
 Current release info
 ====================
