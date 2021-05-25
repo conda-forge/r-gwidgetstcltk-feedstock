@@ -3,7 +3,7 @@ About r-gwidgetstcltk
 
 Home: http://gwidgets.r-forge.r-project.org/
 
-Package license: GPL (>= 2)
+Package license: GPL-2.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gwidgetstcltk-feedstock/blob/master/LICENSE.txt)
 
