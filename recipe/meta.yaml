@@ -44,7 +44,7 @@ test:
 
 about:
   home: http://gwidgets.r-forge.r-project.org/
-  license: GPL (>= 2)
+  license: GPL-2.0-or-later
   summary: Port of the gWidgets API to the tcltk package.
   license_family: GPL3
   license_file: {{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-2
