@@ -1,11 +1,11 @@
-About r-gwidgetstcltk
-=====================
+About r-gwidgetstcltk-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gwidgetstcltk-feedstock/blob/main/LICENSE.txt)
 
 Home: http://gwidgets.r-forge.r-project.org/
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gwidgetstcltk-feedstock/blob/main/LICENSE.txt)
 
 Summary: Port of the gWidgets API to the tcltk package.
 
